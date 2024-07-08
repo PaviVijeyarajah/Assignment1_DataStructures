@@ -1,3 +1,8 @@
+#Assignment 1
+#Pavi Vijeyarajah
+#100874494
+#July 4 2024
+
 import time
 
 product_data = []
